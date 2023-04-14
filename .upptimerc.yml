@@ -5,12 +5,30 @@ repo: upptime # The name of this repository
 sites:
   - name: Manager
     url: https://manager.cartelmatic.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Admin Baliz
+    url: https://admin-baliz.cartelmatic.com/
+  - name: API
+    url: https://api.cartelmatic.com/APIDisponibilites/
+  - name: API Auth
+    url: https://api-auth.cartelmatic.com/docs
+  - name: Back Office
+    url: https://bo.cartelmatic.com/
+  - name: Baliz
+    url: https://baliz.cartelmatic.com/
+  - name: Data Manager
+    url: https://data-manager.cartelmatic.com/
+  - name: Funbox
+    url: https://funbox.cartelmatic.com/
+  - name: Site Web
+    url: https://www.cartelmatic.com/
+  - name: V4
+    url: https://v4.cartelmatic.com/ABRN01COS001FR31000/Client/index.php
+  - name: Viewer
+    url: https://viewer.cartelmatic.com/
+  - name: VNC
+    url: https://vnc.cartelmatic.com/
+
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
