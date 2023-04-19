@@ -40,7 +40,7 @@ status-website:
   name: Upptime
   introTitle: "Cartelmatic"
   introMessage: Statut globale
-  theme: ocean
+  # theme: ocean
   navbar:
     - title: Status
       href: /
