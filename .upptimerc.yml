@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Manager
-    url: https://manager.cartelmatic.com
+    url: $Manager
   - name: Admin Baliz
     url: https://admin-baliz.cartelmatic.com/
   - name: API
