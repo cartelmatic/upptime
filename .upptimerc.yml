@@ -35,10 +35,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.cartelmatic.com/wp-content/uploads/2022/05/logo-cartelmatic2x.jpg
+  themeurl: https://github.com/cartelmatic/upptime/assets/my-custom-theme.css
   name: Upptime
   introTitle: "Cartelmatic"
-  introMessage: woopwoop
+  introMessage: Statut globale
   theme: ocean
   navbar:
     - title: Status
