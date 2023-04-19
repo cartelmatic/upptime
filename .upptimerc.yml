@@ -39,7 +39,7 @@ status-website:
   themeurl: https://raw.githubusercontent.com/cartelmatic/upptime/master/assets/my-custom-theme.css
   name: Upptime
   introTitle: "Cartelmatic"
-  introMessage: Statut globale
+  introMessage: Statut global
   # theme: ocean
   navbar:
     - title: Status
