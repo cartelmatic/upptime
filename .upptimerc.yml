@@ -27,8 +27,6 @@ sites:
     url: https://viewer.cartelmatic.com/
   - name: VNC
     url: https://vnc.cartelmatic.com/
-  - name: test
-    url: https://manager.cartelmatic.com/  
 
 
 
