@@ -81,19 +81,19 @@
     "url": "https://bo.cartelmatic.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bo.cartelmatic.com.ico",
     "slug": "back-office",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 818,
-    "timeDay": 826,
-    "timeWeek": 809,
-    "timeMonth": 818,
-    "timeYear": 818,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 810,
+    "timeDay": 687,
+    "timeWeek": 776,
+    "timeMonth": 810,
+    "timeYear": 810,
     "dailyMinutesDown": {
-      "2023-05-02": 0
+      "2023-05-02": 5
     }
   },
   {
