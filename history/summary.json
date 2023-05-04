@@ -4,18 +4,19 @@
     "url": "$MANAGER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "manager",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 804,
     "timeDay": 868,
     "timeWeek": 860,
     "timeMonth": 804,
     "timeYear": 804,
     "dailyMinutesDown": {
+      "2023-05-04": 1,
       "2023-04-19": 10,
       "2023-04-14": 20
     }
@@ -25,18 +26,19 @@
     "url": "https://admin-baliz.cartelmatic.com/",
     "icon": "https://icons.duckduckgo.com/ip3/admin-baliz.cartelmatic.com.ico",
     "slug": "admin-baliz",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
     "time": 803,
     "timeDay": 866,
     "timeWeek": 773,
     "timeMonth": 803,
     "timeYear": 803,
     "dailyMinutesDown": {
+      "2023-05-04": 1,
       "2023-04-17": 152
     }
   },
@@ -45,9 +47,9 @@
     "url": "https://api.cartelmatic.com/APIDisponibilites/",
     "icon": "https://icons.duckduckgo.com/ip3/api.cartelmatic.com.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,16 +58,18 @@
     "timeWeek": 716,
     "timeMonth": 732,
     "timeYear": 732,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-04": 0
+    }
   },
   {
     "name": "API Auth",
     "url": "https://api-auth.cartelmatic.com/docs",
     "icon": "https://icons.duckduckgo.com/ip3/api-auth.cartelmatic.com.ico",
     "slug": "api-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,17 +78,19 @@
     "timeWeek": 975,
     "timeMonth": 1021,
     "timeYear": 1021,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-04": 0
+    }
   },
   {
     "name": "Back Office",
     "url": "https://bo.cartelmatic.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bo.cartelmatic.com.ico",
     "slug": "back-office",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 803,
@@ -93,6 +99,7 @@
     "timeMonth": 803,
     "timeYear": 803,
     "dailyMinutesDown": {
+      "2023-05-04": 0,
       "2023-05-02": 5
     }
   },
@@ -101,9 +108,9 @@
     "url": "https://baliz.cartelmatic.com/",
     "icon": "https://icons.duckduckgo.com/ip3/baliz.cartelmatic.com.ico",
     "slug": "baliz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -112,16 +119,18 @@
     "timeWeek": 656,
     "timeMonth": 645,
     "timeYear": 645,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-04": 0
+    }
   },
   {
     "name": "Data Manager",
     "url": "https://data-manager.cartelmatic.com/",
     "icon": "https://icons.duckduckgo.com/ip3/data-manager.cartelmatic.com.ico",
     "slug": "data-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -130,16 +139,18 @@
     "timeWeek": 673,
     "timeMonth": 631,
     "timeYear": 631,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-04": 0
+    }
   },
   {
     "name": "Funbox",
     "url": "https://funbox.cartelmatic.com/",
     "icon": "https://icons.duckduckgo.com/ip3/funbox.cartelmatic.com.ico",
     "slug": "funbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -148,7 +159,9 @@
     "timeWeek": 731,
     "timeMonth": 641,
     "timeYear": 641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-04": 0
+    }
   },
   {
     "name": "Site Web",
@@ -173,9 +186,9 @@
     "url": "https://v4.cartelmatic.com/ABRN01COS001FR31000/Client/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/v4.cartelmatic.com.ico",
     "slug": "v4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -184,7 +197,9 @@
     "timeWeek": 766,
     "timeMonth": 789,
     "timeYear": 789,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-04": 0
+    }
   },
   {
     "name": "Viewer",
