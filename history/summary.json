@@ -202,19 +202,19 @@
     "url": "https://www.cartelmatic.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cartelmatic.com.ico",
     "slug": "site-web",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 834,
-    "timeDay": 1084,
-    "timeWeek": 866,
-    "timeMonth": 768,
-    "timeYear": 834,
+    "time": 832,
+    "timeDay": 834,
+    "timeWeek": 831,
+    "timeMonth": 762,
+    "timeYear": 832,
     "dailyMinutesDown": {
-      "2023-08-18": 0
+      "2023-08-18": 4
     }
   },
   {
