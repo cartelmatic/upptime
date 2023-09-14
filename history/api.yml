@@ -1,7 +1,7 @@
 url: https://api.cartelmatic.com/APIDisponibilites/
-status: down
-code: 503
-responseTime: 735
-lastUpdated: 2023-09-14T09:19:50.288Z
+status: up
+code: 200
+responseTime: 586
+lastUpdated: 2023-09-14T09:25:03.267Z
 startTime: 2023-04-14T12:32:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
