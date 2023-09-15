@@ -1,7 +1,7 @@
 url: https://viewer.cartelmatic.com/
-status: down
-code: 503
-responseTime: 647
-lastUpdated: 2023-09-15T07:07:42.318Z
+status: up
+code: 200
+responseTime: 471
+lastUpdated: 2023-09-15T07:17:40.436Z
 startTime: 2023-04-14T12:32:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
