@@ -1,7 +1,7 @@
 url: https://admin-baliz.cartelmatic.com/
-status: down
-code: 503
-responseTime: 575
-lastUpdated: 2023-09-16T16:49:59.369Z
+status: up
+code: 200
+responseTime: 635
+lastUpdated: 2023-09-16T17:01:20.497Z
 startTime: 2023-04-14T12:32:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
