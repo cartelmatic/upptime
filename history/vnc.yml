@@ -1,7 +1,7 @@
 url: https://vnc.cartelmatic.com/
-status: down
-code: 503
-responseTime: 540
-lastUpdated: 2023-09-16T04:45:20.512Z
+status: up
+code: 200
+responseTime: 649
+lastUpdated: 2023-09-16T04:50:44.987Z
 startTime: 2023-04-14T12:32:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
