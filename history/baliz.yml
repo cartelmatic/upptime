@@ -1,7 +1,7 @@
 url: https://baliz.cartelmatic.com/
-status: up
-code: 200
-responseTime: 635
-lastUpdated: 2023-12-13T23:02:18.874Z
+status: down
+code: 503
+responseTime: 451
+lastUpdated: 2023-12-14T17:41:36.384Z
 startTime: 2023-04-14T12:32:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
