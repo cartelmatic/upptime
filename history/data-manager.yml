@@ -1,7 +1,7 @@
 url: https://data-manager.cartelmatic.com/
-status: down
-code: 503
-responseTime: 519
-lastUpdated: 2024-03-22T02:05:25.998Z
+status: up
+code: 200
+responseTime: 389
+lastUpdated: 2024-03-22T02:24:27.289Z
 startTime: 2023-04-14T12:32:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
