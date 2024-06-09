@@ -1,7 +1,7 @@
 url: https://funbox.cartelmatic.com/
-status: up
-code: 200
-responseTime: 558
-lastUpdated: 2024-06-08T23:06:38.966Z
+status: down
+code: 503
+responseTime: 429
+lastUpdated: 2024-06-09T00:50:08.951Z
 startTime: 2023-04-14T12:32:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
