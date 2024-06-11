@@ -1,7 +1,7 @@
 url: https://api-auth.cartelmatic.com/docs
-status: down
-code: 503
-responseTime: 1016
-lastUpdated: 2024-06-11T07:23:23.139Z
+status: up
+code: 200
+responseTime: 792
+lastUpdated: 2024-06-11T07:35:55.515Z
 startTime: 2023-04-14T12:32:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
