@@ -1,7 +1,7 @@
 url: $MANAGER
-status: up
-code: 200
+status: down
+code: 503
 responseTime: 692
-lastUpdated: 2024-12-17T23:07:21.068Z
+lastUpdated: 2024-12-17T23:53:05.323Z
 startTime: 2023-04-14T10:56:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
