@@ -4,19 +4,19 @@
     "url": "$MANAGER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "manager",
-    "status": "down",
+    "status": "up",
     "uptime": "88.03%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "80.09%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "1.39%",
+    "uptimeYear": "80.08%",
     "time": 868,
-    "timeDay": 692,
-    "timeWeek": 829,
-    "timeMonth": 857,
+    "timeDay": 712,
+    "timeWeek": 820,
+    "timeMonth": 853,
     "timeYear": 860,
     "dailyMinutesDown": {
-      "2024-12-17": 1433,
+      "2024-12-17": 1438,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
@@ -98,8 +98,7 @@
       "2024-03-11": 20,
       "2024-02-17": 58,
       "2024-01-30": 18,
-      "2024-01-03": 5,
-      "2023-12-19": 14
+      "2024-01-03": 5
     }
   },
   {
@@ -107,19 +106,19 @@
     "url": "https://admin-baliz.cartelmatic.com/",
     "icon": "https://icons.duckduckgo.com/ip3/admin-baliz.cartelmatic.com.ico",
     "slug": "admin-baliz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.39%",
-    "time": 786,
-    "timeDay": 686,
-    "timeWeek": 739,
-    "timeMonth": 769,
+    "time": 785,
+    "timeDay": 719,
+    "timeWeek": 744,
+    "timeMonth": 770,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2024-12-17": 0,
+      "2024-12-17": 5,
       "2024-10-30": 5,
       "2024-10-08": 54,
       "2024-06-14": 5,
@@ -134,8 +133,7 @@
       "2024-03-11": 20,
       "2024-02-17": 57,
       "2024-01-30": 18,
-      "2024-01-03": 5,
-      "2023-12-19": 14
+      "2024-01-03": 5
     }
   },
   {
@@ -155,7 +153,8 @@
     "timeMonth": 0,
     "timeYear": 774,
     "dailyMinutesDown": {
-      "2024-12-17": 1434,
+      "2024-12-18": 0,
+      "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
@@ -217,8 +216,7 @@
       "2024-03-11": 20,
       "2024-02-17": 56,
       "2024-01-30": 18,
-      "2024-01-03": 5,
-      "2023-12-19": 14
+      "2024-01-03": 5
     }
   },
   {
@@ -226,19 +224,19 @@
     "url": "https://api-auth.cartelmatic.com/docs",
     "icon": "https://icons.duckduckgo.com/ip3/api-auth.cartelmatic.com.ico",
     "slug": "api-auth",
-    "status": "down",
+    "status": "up",
     "uptime": "91.45%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "0.03%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "85.84%",
-    "time": 1018,
-    "timeDay": 748,
-    "timeWeek": 1038,
-    "timeMonth": 1058,
+    "time": 1017,
+    "timeDay": 770,
+    "timeWeek": 1013,
+    "timeMonth": 1050,
     "timeYear": 1016,
     "dailyMinutesDown": {
-      "2024-12-17": 1434,
+      "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
@@ -304,8 +302,7 @@
       "2024-02-23": 56,
       "2024-02-17": 56,
       "2024-01-30": 18,
-      "2024-01-03": 5,
-      "2023-12-19": 14
+      "2024-01-03": 5
     }
   },
   {
@@ -313,19 +310,19 @@
     "url": "https://bo.cartelmatic.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bo.cartelmatic.com.ico",
     "slug": "back-office",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.46%",
     "time": 817,
-    "timeDay": 649,
-    "timeWeek": 871,
-    "timeMonth": 881,
+    "timeDay": 685,
+    "timeWeek": 859,
+    "timeMonth": 877,
     "timeYear": 810,
     "dailyMinutesDown": {
-      "2024-12-17": 0,
+      "2024-12-17": 7,
       "2024-10-30": 6,
       "2024-10-08": 45,
       "2024-06-11": 417,
@@ -337,8 +334,7 @@
       "2024-03-11": 20,
       "2024-02-17": 54,
       "2024-01-30": 18,
-      "2024-01-03": 6,
-      "2023-12-19": 14
+      "2024-01-03": 6
     }
   },
   {
@@ -346,19 +342,20 @@
     "url": "https://baliz.cartelmatic.com/",
     "icon": "https://icons.duckduckgo.com/ip3/baliz.cartelmatic.com.ico",
     "slug": "baliz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.45%",
-    "time": 692,
-    "timeDay": 658,
-    "timeWeek": 703,
-    "timeMonth": 730,
-    "timeYear": 706,
+    "time": 691,
+    "timeDay": 637,
+    "timeWeek": 693,
+    "timeMonth": 726,
+    "timeYear": 705,
     "dailyMinutesDown": {
-      "2024-12-17": 0,
+      "2024-12-18": 0,
+      "2024-12-17": 7,
       "2024-12-12": 7,
       "2024-11-26": 21,
       "2024-11-06": 19,
@@ -376,8 +373,7 @@
       "2024-02-23": 4,
       "2024-02-17": 54,
       "2024-01-30": 18,
-      "2024-01-03": 6,
-      "2023-12-19": 14
+      "2024-01-03": 6
     }
   },
   {
@@ -385,19 +381,20 @@
     "url": "https://data-manager.cartelmatic.com/",
     "icon": "https://icons.duckduckgo.com/ip3/data-manager.cartelmatic.com.ico",
     "slug": "data-manager",
-    "status": "down",
+    "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.39%",
-    "time": 650,
-    "timeDay": 516,
-    "timeWeek": 646,
-    "timeMonth": 667,
+    "time": 649,
+    "timeDay": 532,
+    "timeWeek": 636,
+    "timeMonth": 664,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2024-12-17": 0,
+      "2024-12-18": 0,
+      "2024-12-17": 7,
       "2024-11-06": 19,
       "2024-10-08": 45,
       "2024-10-06": 3,
@@ -411,8 +408,7 @@
       "2024-03-11": 20,
       "2024-02-17": 52,
       "2024-01-30": 18,
-      "2024-01-03": 6,
-      "2023-12-19": 14
+      "2024-01-03": 6
     }
   },
   {
@@ -420,19 +416,20 @@
     "url": "https://funbox.cartelmatic.com/",
     "icon": "https://icons.duckduckgo.com/ip3/funbox.cartelmatic.com.ico",
     "slug": "funbox",
-    "status": "down",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.46%",
-    "time": 646,
-    "timeDay": 503,
-    "timeWeek": 574,
-    "timeMonth": 599,
+    "time": 642,
+    "timeDay": 496,
+    "timeWeek": 564,
+    "timeMonth": 595,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2024-12-17": 0,
+      "2024-12-18": 0,
+      "2024-12-17": 7,
       "2024-11-06": 19,
       "2024-10-30": 4,
       "2024-10-08": 45,
@@ -446,8 +443,7 @@
       "2024-02-23": 7,
       "2024-02-17": 52,
       "2024-01-30": 18,
-      "2024-01-03": 6,
-      "2023-12-19": 14
+      "2024-01-03": 6
     }
   },
   {
@@ -479,19 +475,20 @@
     "url": "https://v4.cartelmatic.com/ABRN01COS001FR31000/Client/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/v4.cartelmatic.com.ico",
     "slug": "v4",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.33%",
     "time": 1387,
-    "timeDay": 725,
-    "timeWeek": 789,
-    "timeMonth": 886,
-    "timeYear": 1396,
+    "timeDay": 757,
+    "timeWeek": 792,
+    "timeMonth": 884,
+    "timeYear": 1395,
     "dailyMinutesDown": {
-      "2024-12-17": 0,
+      "2024-12-18": 0,
+      "2024-12-17": 7,
       "2024-10-08": 45,
       "2024-10-06": 2,
       "2024-10-04": 4,
@@ -522,8 +519,7 @@
       "2024-01-23": 10,
       "2024-01-20": 5,
       "2024-01-10": 7,
-      "2024-01-03": 6,
-      "2023-12-19": 14
+      "2024-01-03": 6
     }
   },
   {
@@ -531,19 +527,20 @@
     "url": "https://viewer.cartelmatic.com/",
     "icon": "https://icons.duckduckgo.com/ip3/viewer.cartelmatic.com.ico",
     "slug": "viewer",
-    "status": "down",
+    "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.47%",
-    "time": 595,
-    "timeDay": 482,
-    "timeWeek": 624,
-    "timeMonth": 642,
+    "time": 596,
+    "timeDay": 524,
+    "timeWeek": 622,
+    "timeMonth": 641,
     "timeYear": 590,
     "dailyMinutesDown": {
-      "2024-12-17": 0,
+      "2024-12-18": 0,
+      "2024-12-17": 7,
       "2024-11-06": 19,
       "2024-10-30": 3,
       "2024-06-11": 417,
@@ -555,8 +552,7 @@
       "2024-03-11": 5,
       "2024-02-17": 51,
       "2024-01-30": 18,
-      "2024-01-03": 6,
-      "2023-12-19": 14
+      "2024-01-03": 6
     }
   },
   {
@@ -587,8 +583,7 @@
       "2024-03-11": 5,
       "2024-02-17": 50,
       "2024-01-30": 18,
-      "2024-01-03": 6,
-      "2023-12-19": 14
+      "2024-01-03": 6
     }
   }
 ]
