@@ -1,7 +1,7 @@
 url: https://v4.cartelmatic.com/ABRN01COS001FR31000/Client/index.php
-status: down
-code: 503
-responseTime: 373
-lastUpdated: 2025-01-14T17:00:21.526Z
+status: up
+code: 200
+responseTime: 1263
+lastUpdated: 2025-01-14T17:14:57.479Z
 startTime: 2023-04-14T12:32:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
